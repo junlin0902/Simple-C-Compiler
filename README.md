@@ -1,4 +1,4 @@
-# Waterloo Language Plus Pointers Plus Procedures Compiler
+# Simple C Complier
 
 ## Introduction
 The Waterloo Language Plus Pointers Plus Procedures (WLP4) Compiler is a project that compiles WLP4, a simplified version of the C programming language. This compiler is structured to process code in multiple stages, ensuring efficient and accurate compilation.
