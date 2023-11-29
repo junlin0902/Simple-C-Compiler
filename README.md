@@ -21,7 +21,7 @@ The correct order of execution for the compilation process is as follows:
 2. Parse
 3. Type Check
 4. Generate Code
-5.Assemble
+5. Assemble
 
 ## Code Generation Optimization
 The compiler implements several optimization techniques during the code generation phase, including:
